@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="648" topLine="21" />
+	</File>
+	<File name="particle.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="278" topLine="0" />
+	</File>
+	<File name="particle.h" open="1" top="0" tabpos="3">
+		<Cursor position="153" topLine="0" />
+	</File>
+	<File name="utils.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="4214" topLine="137" />
+	</File>
+	<File name="utils.h" open="1" top="0" tabpos="5">
+		<Cursor position="111" topLine="7" />
+	</File>
+	<File name="vec2f.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="82" topLine="26" />
+	</File>
+	<File name="vec2f.h" open="1" top="0" tabpos="7">
+		<Cursor position="666" topLine="15" />
+	</File>
+</CodeBlocks_layout_file>

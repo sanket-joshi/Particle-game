@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1403041356 source:c:\users\helo\desktop\final\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"utils.h"
+	"particle.h"
+	<iostream>
+
+1403041283 source:c:\users\helo\desktop\final\particle.cpp
+	"particle.h"
+	<math.h>
+	<iostream>
+
+1403041685 c:\users\helo\desktop\final\particle.h
+	"vec2f.h"
+	"utils.h"
+
+1403041208 c:\users\helo\desktop\final\vec2f.h
+	<ostream>
+
+1403052547 source:c:\users\helo\desktop\final\utils.cpp
+	"utils.h"
+	<cmath>
+	<stdlib.h>
+
+1403040868 c:\users\helo\desktop\final\utils.h
+	<SDL/SDL.h>
+
+1403038334 source:c:\users\helo\desktop\final\vec2f.cpp
+	"vec2f.h"
+	<math.h>
+	<iostream>
+
+1403056270 source:c:\users\helo\desktop\final_project grade_12\final\particle.cpp
+	"particle.h"
+	<math.h>
+	<iostream>
+
+1403041685 c:\users\helo\desktop\final_project grade_12\final\particle.h
+	"vec2f.h"
+	"utils.h"
+
+1403041208 c:\users\helo\desktop\final_project grade_12\final\vec2f.h
+	<ostream>
+
+1403040868 c:\users\helo\desktop\final_project grade_12\final\utils.h
+	<SDL/SDL.h>
+
+1403052547 source:c:\users\helo\desktop\final_project grade_12\final\utils.cpp
+	"utils.h"
+	<cmath>
+	<stdlib.h>
+
+1403038334 source:c:\users\helo\desktop\final_project grade_12\final\vec2f.cpp
+	"vec2f.h"
+	<math.h>
+	<iostream>
+
+1403041356 source:c:\users\helo\desktop\final_project grade_12\final\main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	"utils.h"
+	"particle.h"
+	<iostream>
+
